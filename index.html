@@ -13,17 +13,21 @@
 <div id="map"></div>
 
 <div class="topbar">
-  <input id="search" placeholder="Buscar lugar... (ej. Tre Cime)"/>
+  <div class="search-wrap">
+    <input id="search" placeholder="Buscar lugar... (ej. Tre Cime)"/>
+    <button id="clearBtn" title="Limpiar búsqueda">✖</button>
+  </div>
   <div class="chips" id="chips"></div>
 </div>
 
 <div class="fab">
+  <button class="btn" id="listToggleBtn" title="Mostrar/Ocultar lista">🗂️</button>
   <button class="btn" id="locateBtn" title="Mi ubicación">📍</button>
   <button class="btn" id="resetBtn" title="Ver todo">🔎</button>
   <button class="btn" id="installBtn" title="Instalar app" style="display:none">⬇️</button>
 </div>
 
-<div class="sidebar" id="sidebar">
+<div class="sidebar hidden" id="sidebar">
   <div id="list"></div>
   <div class="legend" id="legend"></div>
 </div>
@@ -33,11 +37,9 @@
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 <script src="app.js"></script>
 <script>
-// PWA
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', () => navigator.serviceWorker.register('./sw.js'));
 }
-// install prompt
 let deferredPrompt;
 window.addEventListener('beforeinstallprompt', (e) => {
   e.preventDefault();
