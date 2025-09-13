@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Dolomitas</name>
+    <description/>
+    <Style id="icon-seq2-0-0-673AB7-normal">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-0-0-673AB7-highlight">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-0-0-673AB7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-0-0-673AB7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-0-0-673AB7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-0-1-673AB7-normal">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-0-1-673AB7-highlight">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-0-1-673AB7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-0-1-673AB7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-0-1-673AB7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-0-2-673AB7-normal">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-3.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-0-2-673AB7-highlight">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-3.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-0-2-673AB7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-0-2-673AB7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-0-2-673AB7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-1-0-01579B-normal">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-1-0-01579B-highlight">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-1-0-01579B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-1-0-01579B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-1-0-01579B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-1-1-01579B-normal">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-5.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-1-1-01579B-highlight">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-5.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-1-1-01579B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-1-1-01579B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-1-1-01579B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-2-0-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-6.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-2-0-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-6.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-2-0-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-2-0-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-2-0-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-2-1-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-7.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-2-1-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-7.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-2-1-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-2-1-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-2-1-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-2-2-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-8.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-2-2-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-8.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-2-2-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-2-2-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-2-2-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-3-0-817717-normal">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-9.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-3-0-817717-highlight">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-9.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-3-0-817717">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-3-0-817717-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-3-0-817717-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-3-1-817717-normal">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-10.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-3-1-817717-highlight">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-10.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-3-1-817717">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-3-1-817717-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-3-1-817717-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-3-2-817717-normal">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-11.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-3-2-817717-highlight">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-11.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-3-2-817717">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-3-2-817717-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-3-2-817717-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-4-0-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-12.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-4-0-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-12.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-4-0-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-4-0-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-4-0-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-5-0-F9A825-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-13.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-5-0-F9A825-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-13.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-5-0-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-5-0-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-5-0-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-seq2-5-1-F9A825-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-14.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-seq2-5-1-F9A825-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-14.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-seq2-5-1-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-seq2-5-1-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-seq2-5-1-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Día 1 (14 Sep)</name>
+      <Placemark>
+        <name>Bai de Dònes – 5 Torri (valley station)</name>
+        <description><![CDATA[Categoría: Teleférico/Inicio hike<br>             Día: Día 1 (14 Sep)<br>             Notas: Valley station del chairlift 5 Torri.<br>             Lat: 46.51859, Lon: 12.03844]]></description>
+        <styleUrl>#icon-seq2-0-0-673AB7</styleUrl>
+        <Point>
+          <coordinates>
+            12.03844,46.51859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rifugio Scoiattoli (Cinque Torri)</name>
+        <description><![CDATA[Categoría: Rifugio/Vista<br>             Día: Día 1 (14 Sep)<br>             Notas: Vista clásica de Cinque Torri.<br>             Lat: 46.508095, Lon: 12.046825]]></description>
+        <styleUrl>#icon-seq2-0-1-673AB7</styleUrl>
+        <Point>
+          <coordinates>
+            12.046825,46.508095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hotel Boite (Corte)</name>
+        <description><![CDATA[Categoría: Hotel<br> Día: Día 1 (14 Sep)<br> Lat: 46.43029, Lon: 12.23804]]></description>
+        <styleUrl>#icon-seq2-0-2-673AB7</styleUrl>
+        <Point>
+          <coordinates>
+            12.2380106,46.4302017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Día 2 (15 Sep)</name>
+      <Placemark>
+        <name>Parcheggio Tre Cime / Rifugio Auronzo</name>
+        <description><![CDATA[Categoría: Parking/Inicio hike<br> Día: Día 2 (15 Sep)<br> Notas: Inicio del loop Tre Cime.<br> Lat: 46.613229, Lon: 12.295698<br>Parking a partir de las 7:30 am<br>https://pass.auronzo.info/Frontoffice/Abbonamenti/Nuovo?taId=IIV7dhOwZ1Q6MHDwHH4Fyw%3d%3d]]></description>
+        <styleUrl>#icon-seq2-1-0-01579B</styleUrl>
+        <Point>
+          <coordinates>
+            12.295698,46.613229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rifugio Antonio Locatelli/Dreizinnenhütte</name>
+        <description><![CDATA[Categoría: Rifugio/Vista<br>             Día: Día 2 (15 Sep)<br>             Notas: Mirador icónico a las Tre Cime.<br>             Lat: 46.636949, Lon: 12.310457]]></description>
+        <styleUrl>#icon-seq2-1-1-01579B</styleUrl>
+        <Point>
+          <coordinates>
+            12.310457,46.636949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Día 3 (16 Sep)</name>
+      <Placemark>
+        <name>Lago di Braies (amanecer)</name>
+        <description><![CDATA[Categoría: Lago/Vista<br>             Día: Día 3 (16 Sep)<br>             Notas: Lago icónico; llegar antes del amanecer.<br>             Lat: 46.694333, Lon: 12.085427]]></description>
+        <styleUrl>#icon-seq2-2-0-097138</styleUrl>
+        <Point>
+          <coordinates>
+            12.085427,46.694333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Passo Tre Croci</name>
+        <description><![CDATA[Categoría: Paso de montaña<br>             Día: Día 3 (16 Sep)<br>             Notas: Acceso a Sorapis.<br>             Lat: 46.55697, Lon: 12.20184]]></description>
+        <styleUrl>#icon-seq2-2-1-097138</styleUrl>
+        <Point>
+          <coordinates>
+            12.20184,46.55697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lago di Sorapis</name>
+        <description><![CDATA[Categoría: Lago/Vista<br>             Día: Día 3 (16 Sep)<br>             Notas: Hike con exposición moderada en tramos; vistas turquesa.<br>             Lat: 46.52051, Lon: 12.22345]]></description>
+        <styleUrl>#icon-seq2-2-2-097138</styleUrl>
+        <Point>
+          <coordinates>
+            12.22345,46.52051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Día 4 (17 Sep)</name>
+      <Placemark>
+        <name>Smart Hotel Saslong (Val Gardena)</name>
+        <description><![CDATA[Categoría: Hotel<br>             Día: Día 4 (17 Sep)<br>             Notas: Base en Val Gardena.<br>             Lat: 46.560793, Lon: 11.708025]]></description>
+        <styleUrl>#icon-seq2-3-0-817717</styleUrl>
+        <Point>
+          <coordinates>
+            11.708025,46.560793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ortisei–Seceda (valley station)</name>
+        <description><![CDATA[Categoría: Teleférico/Inicio hike<br>             Día: Día 4 (17 Sep)<br>             Notas: Góndola Ortisei→Furnes→Seceda.<br>             Lat: 46.584275, Lon: 11.694118]]></description>
+        <styleUrl>#icon-seq2-3-1-817717</styleUrl>
+        <Point>
+          <coordinates>
+            11.694118,46.584275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seceda – viewpoint</name>
+        <description><![CDATA[Categoría: Vista<br>             Día: Día 4 (17 Sep)<br>             Notas: Aristas de Fermeda.<br>             Lat: 46.600538, Lon: 11.726075]]></description>
+        <styleUrl>#icon-seq2-3-2-817717</styleUrl>
+        <Point>
+          <coordinates>
+            11.726075,46.600538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Día 5 (18 Sep)</name>
+      <Placemark>
+        <name>Cyprianerhof Dolomites Spa Resort (Day Spa)</name>
+        <description><![CDATA[Categoría: Spa<br>             Día: Día 6 (19 Sep)<br>             Notas: Day Spa desde las 12:00.<br>             Lat: 46.471222, Lon: 11.561458]]></description>
+        <styleUrl>#icon-seq2-4-0-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            11.561458,46.471222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Día 6 (19 Sep)</name>
+      <Placemark>
+        <name>Passo Sella (zona hotel Passo Sella)</name>
+        <description><![CDATA[Categoría: Paso de montaña/Inicio hike<br>             Día: Día 5 (18 Sep)<br>             Notas: Acceso a rutas Sella/Torri del Sella.<br>             Lat: 46.50618, Lon: 11.78178]]></description>
+        <styleUrl>#icon-seq2-5-0-F9A825</styleUrl>
+        <Point>
+          <coordinates>
+            11.78178,46.50618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rifugio Toni Demetz (Sella)</name>
+        <description><![CDATA[Categoría: Rifugio/Vista<br>             Día: Día 5 (18 Sep)<br>             Notas: Teleférico ‘cesta’ desde el paso.<br>             Lat: 46.5145, Lon: 11.7686]]></description>
+        <styleUrl>#icon-seq2-5-1-F9A825</styleUrl>
+        <Point>
+          <coordinates>
+            11.7686,46.5145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
